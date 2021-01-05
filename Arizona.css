@@ -8,7 +8,7 @@
 */
 
 body{
-    background-image: url(../Web/latar.jpg);
+    background-image: url(../image/latar.jpg);
     background-repeat: repeat-x;
     font-size: 20px;
     text-align: left;
@@ -25,7 +25,7 @@ body{
     margin-right: auto;
 }
 
-.tm-main-content {background-image: url(../Web/G1.jpg);
+.tm-main-content {background-image: url(../image/G1.jpg);
     background-position: center;
     background-size: cover;
     min-height: 950px;
@@ -33,7 +33,7 @@ body{
 }
 
 #tm-intro-img {
-    background-image:url(../Web/Tampilan.jpg);
+    background-image:url(../image/Tampilan.jpg);
     background-position: center;
     background-size: cover;
     min-height: 550px;
